@@ -8,7 +8,7 @@ Opencore 0.8.9 MacOS Ventura with AMD Ryzen 3600/5600 and AMD Radeon 6660
 - OLOy 32GB 3000MHz (4x8GB)
 - Fenvi FV-AC1200 Pcie wireless card
 
-##Software Configuration
+## Software Configuration
 - Ventura 13.2.1
 
 
